@@ -1,0 +1,6 @@
+{
+  "name": "Same Second",
+  "description": "Cricket spoiler prevention app synchronizing watch-along conversations with match ball positions instead of clock time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
